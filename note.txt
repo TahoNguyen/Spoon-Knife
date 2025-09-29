@@ -1,0 +1,1 @@
+echo "Thực hành fork" > note.txt
